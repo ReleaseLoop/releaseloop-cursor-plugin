@@ -1,0 +1,13 @@
+{
+  "name": "releaseloop",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your ReleaseLoop account. Read artists, releases, tasks, contacts and royalty imports, and create or update releases and tasks. It cannot delete records or process payments.",
+  "author": {
+    "name": "ReleaseLoop",
+    "email": "hello@releaseloop.com"
+  },
+  "homepage": "https://releaseloop.com",
+  "license": "MIT",
+  "keywords": ["music", "release-management", "releases", "mcp", "artists", "royalties", "contacts", "tasks", "releaseloop"],
+  "logo": "assets/logo.png"
+}
