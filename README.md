@@ -19,7 +19,7 @@ If you belong to more than one workspace, name the one you mean. Sections you ar
 ## Install
 
 - From the Cursor Marketplace: search for ReleaseLoop once it is listed.
-- From this repository: add it as a Cursor plugin source.
+- From this repository: add `https://github.com/ReleaseLoop/releaseloop-cursor-plugin` as a Cursor plugin source.
 
 After install, Cursor will ask you to sign in to ReleaseLoop. Review the permissions and click Allow connection. No API key is needed.
 
